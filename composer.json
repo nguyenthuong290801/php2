@@ -1,0 +1,22 @@
+{
+    "name": "shopping/manager",
+    "type": "project",
+    "description": "The skeleton application for the php framework.",
+    "keywords": ["php", "framework"],
+    "autoload": {
+        "psr-4": {
+            "App\\": "./app",
+            "Illuminate\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nguyen Anh Thuong",
+            "email": "contact.thuongna@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "cocur/slugify": "^4.5"
+    }
+}

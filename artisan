@@ -1,0 +1,177 @@
+<?php
+
+use Illuminate\framework\base\ArtisanTool;
+use Illuminate\framework\Application;
+
+require_once __DIR__ . '/vendor/autoload.php';
+
+$dotenv = Dotenv\Dotenv::createImmutable(dirname(__DIR__ . '/artisan'));
+$dotenv->load();
+
+class Artisan extends ArtisanTool
+{
+    public function make()
+    {
+        $command = $_SERVER['argv'][1] ?? '';
+
+        if (empty($command)) {
+            return;
+        }
+
+        $name = $_SERVER['argv'][2] ?? '';
+        $basePath = './';
+
+        switch ($command) {
+            case self::MAKE_CONTROLLER:
+                $path = $basePath . 'controllers/' . $name . '.php';
+                $content = $this->generateControllerContent($name);
+                $successMessage = "Controller created successfully in controllers/$name.php";
+                break;
+
+            case self::MAKE_MODEL:
+                $path = $basePath . 'models/' . $name . '.php';
+                $content = $this->generateModelContent($name);
+                $successMessage = "Model created successfully in models/$name.php";
+                break;
+
+            case self::MAKE_MIGRATION:
+                $dateString = date('Y_m_d_');
+                $path = $basePath . 'database/migrations/' . $dateString . $_SERVER['argv'][3] . '_' . $name . '.php';
+                $content = $this->generateMigrationContent($name);
+                $successMessage = "Migration created successfully in migrations/$name.php";
+                break;
+            case self::MAKE_MIGRATE:
+
+                $config = [
+                    'db' => [
+                        'dsn' => $_ENV['DB_CONNECTION'] . ";port=" . $_ENV['DB_PORT'] . ";dbname=" . $_ENV['DB_DATABASE'],
+                        'user' => $_ENV['DB_USERNAME'],
+                        'password' => $_ENV['DB_PASSWORD'],
+                    ]
+                ];
+
+                $app = new Application(dirname(__DIR__), $config);
+                $app->migration->applyMigration();
+                break;
+            default:
+                return;
+        }
+
+        if (!empty($path) && !file_exists($path)) {
+            file_put_contents($path, $content);
+            echo $successMessage;
+        }
+    }
+
+    private function generateControllerContent($name)
+    {
+        return "<?php
+
+namespace App\controllers;
+
+use Illuminate\framework\Controller;
+use Illuminate\framework\Request;
+
+class $name extends Controller
+{
+
+}
+";
+    }
+
+    private function generateModelContent($name)
+    {
+        return "<?php
+
+namespace App\app\models;
+
+use Illuminate\framework\base\Model;
+
+class $name extends Model
+{
+
+}
+";
+    }
+
+    private function generateMigrationContent($name)
+    {
+        $action = $this->getMigrationAction($name);
+        $table = substr($name, 7, -6);
+        $formContent = $this->getFormContent($action, $name, $table);
+
+        return "<?php
+
+namespace App\database\migrations;
+        
+use Illuminate\framework\base\MigrationTool;
+use Illuminate\framework\Blueprint;
+
+class $name extends MigrationTool
+{
+    $formContent
+}
+";
+    }
+
+    private function getMigrationAction($name)
+    {
+        $action = '';
+
+        if (strpos($name, 'create_') === 0) {
+            $action = 'create';
+        } elseif (strpos($name, 'update_') === 0) {
+            $action = 'update';
+        }
+
+        return $action;
+    }
+
+    private function getFormContent($action, $name, $table)
+    {
+        if ($action === 'create') {
+            return $this->getCreateFormContent($name, $table);
+        } elseif ($action === 'update') {
+            return $this->getUpdateFormContent($name, $table);
+        }
+
+        return '';
+    }
+
+    private function getCreateFormContent($name, $table)
+    {
+        return
+            'public function up()
+    {
+        $this->schema->create(\'' . $table . '\', function (Blueprint $table) {
+            $table->id();
+        });
+    }
+        
+    public function down()
+    {
+        $this->schema->dropIfExists(\'' . $table . '\');
+    }
+';
+    }
+
+    private function getUpdateFormContent($name, $table)
+    {
+        return
+            'public function up()
+    {
+        $this->schema->update(\'' . $table . '\', function (Blueprint $table) {
+            $table->id();
+        });
+    }
+        
+    public function down()
+    {
+        $this->schema->dropIfExists(\'' . $table . '\');
+    }
+';
+    }
+}
+
+$artisan = new Artisan();
+$artisan->make();

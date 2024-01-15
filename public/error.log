@@ -1,0 +1,660 @@
+______
+[2024-01-13 09:55:52] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 09:55:52] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 09:55:52] Error: include_once(C:\Users\ASUS\OneDrive\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 09:55:52] Error: include_once(): Failed opening 'C:\Users\ASUS\OneDrive\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 10:13:49] Error: Undefined array key "id" in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 19
+______
+[2024-01-13 10:13:49] Error: Undefined array key "id" in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 19
+______
+[2024-01-13 10:13:49] Error: Undefined array key "id" in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 19
+______
+[2024-01-13 10:13:49] Error: Undefined array key "id" in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 19
+______
+[2024-01-13 10:13:49] Error: Undefined array key "id" in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 19
+______
+[2024-01-13 10:13:49] Error: Undefined array key "id" in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 19
+______
+[2024-01-13 10:13:49] Error: Undefined array key "id" in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 19
+______
+[2024-01-13 10:13:49] Error: Undefined array key "id" in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 19
+______
+[2024-01-13 10:13:49] Error: Undefined array key "id" in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 19
+______
+[2024-01-13 10:13:49] Error: Undefined array key "id" in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 19
+______
+[2024-01-13 10:13:49] Error: Undefined array key "id" in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 19
+______
+[2024-01-13 10:13:49] Error: Undefined array key "id" in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 19
+______
+[2024-01-13 10:13:49] Error: Undefined array key "id" in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 19
+______
+[2024-01-13 10:13:49] Error: Undefined array key "id" in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 19
+______
+[2024-01-13 10:13:49] Error: Undefined array key "id" in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 19
+______
+[2024-01-13 10:13:49] Error: Undefined array key "id" in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 19
+______
+[2024-01-13 10:13:49] Error: Undefined array key "id" in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 19
+______
+[2024-01-13 10:13:49] Error: Undefined array key "id" in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 19
+______
+[2024-01-13 10:13:49] Error: Undefined array key "id" in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 19
+______
+[2024-01-13 10:13:49] Error: Undefined array key "id" in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 19
+______
+[2024-01-13 10:15:06] Error: Array to string conversion in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 21
+______
+[2024-01-13 10:15:06] Error: Array to string conversion in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 21
+______
+[2024-01-13 10:15:06] Error: Array to string conversion in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 21
+______
+[2024-01-13 10:15:06] Error: Array to string conversion in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 21
+______
+[2024-01-13 10:15:06] Error: Array to string conversion in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 21
+______
+[2024-01-13 10:15:06] Error: Array to string conversion in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 21
+______
+[2024-01-13 10:15:06] Error: Array to string conversion in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 21
+______
+[2024-01-13 10:15:06] Error: Array to string conversion in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 21
+______
+[2024-01-13 10:15:06] Error: Array to string conversion in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 21
+______
+[2024-01-13 10:15:06] Error: Array to string conversion in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 21
+______
+[2024-01-13 10:15:07] Error: Array to string conversion in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 21
+______
+[2024-01-13 10:15:07] Error: Array to string conversion in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 21
+______
+[2024-01-13 10:15:07] Error: Array to string conversion in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 21
+______
+[2024-01-13 10:15:07] Error: Array to string conversion in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 21
+______
+[2024-01-13 10:15:07] Error: Array to string conversion in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 21
+______
+[2024-01-13 10:15:07] Error: Array to string conversion in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 21
+______
+[2024-01-13 10:15:07] Error: Array to string conversion in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 21
+______
+[2024-01-13 10:15:07] Error: Array to string conversion in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 21
+______
+[2024-01-13 10:15:07] Error: Array to string conversion in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 21
+______
+[2024-01-13 10:15:07] Error: Array to string conversion in C:\Users\ASUS\OneDrive\php2\app\controllers\admin\ProductController.php on line 21
+______
+[2024-01-13 10:26:33] Error: include_once(C:\Users\ASUS\OneDrive\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 10:26:33] Error: include_once(): Failed opening 'C:\Users\ASUS\OneDrive\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:12] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:12] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:12] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:12] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:15] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:15] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:15] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:15] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:18] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:18] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:18] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:18] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:23] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:23] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:23] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:23] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:26] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:26] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:26] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:26] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:26] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:26] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:26] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:26] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:26] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:26] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:26] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:26] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:27] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:27] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:27] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:27] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:34] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:34] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:34] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:34] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:35] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:35] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:35] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:35] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:35] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:35] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:35] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:35] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:35] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:35] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:35] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:35] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:35] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:35] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:35] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:35] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:36] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:36] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:36] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:36] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:36] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:36] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:36] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:36] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:36] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:36] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:36] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:36] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:36] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:36] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:36] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:36] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:37] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:37] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:37] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:37] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:37] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:37] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:37] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:37] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:37] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:37] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:37] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:37] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:37] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:37] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:37] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:37] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:37] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:37] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:37] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:37] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:37] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:37] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:37] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:37] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:38] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:38] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:38] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:38] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:38] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:38] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:38] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:38] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:38] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:38] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:38] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:38] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:38] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:38] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:38] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:38] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:43] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:43] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:43] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:43] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:44] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 11:15:44] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 11:15:44] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 11:15:44] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:52:49] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 12:52:49] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 12:52:49] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:52:49] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:52:49] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 12:52:49] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 12:52:49] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:52:49] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:52:50] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 12:52:50] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 12:52:50] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:52:50] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:52:59] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:52:59] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:02] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 12:53:02] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 12:53:02] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:02] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:13] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 12:53:13] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 12:53:13] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:13] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:13] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 12:53:13] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 12:53:13] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:13] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:13] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 12:53:13] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 12:53:13] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:13] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:14] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 12:53:14] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 12:53:14] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:14] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:38] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 12:53:38] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 12:53:38] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:38] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:38] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 12:53:38] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 12:53:38] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:38] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:43] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:43] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:56] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 12:53:56] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 12:53:56] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:56] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:58] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 12:53:58] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 12:53:58] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:58] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:58] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 12:53:58] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 12:53:58] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:58] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:58] Error: Undefined array key "PATH_INFO" in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 12:53:58] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\ASUS\OneDrive\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 12:53:58] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 12:53:58] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\Users\ASUS\OneDrive\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:17:40] Error: Undefined array key "PATH_INFO" in C:\xampp\htdocs\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 14:17:40] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 14:17:40] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:17:40] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:17:53] Error: Undefined array key "PATH_INFO" in C:\xampp\htdocs\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 14:17:53] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 14:17:53] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:17:53] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:17:53] Error: Undefined array key "PATH_INFO" in C:\xampp\htdocs\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 14:17:53] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 14:17:53] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:17:53] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:17:54] Error: Undefined array key "PATH_INFO" in C:\xampp\htdocs\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 14:17:54] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 14:17:54] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:17:54] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:17:54] Error: Undefined array key "PATH_INFO" in C:\xampp\htdocs\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 14:17:54] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 14:17:54] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:17:54] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:17:54] Error: Undefined array key "PATH_INFO" in C:\xampp\htdocs\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 14:17:54] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 14:17:54] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:17:54] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:17:55] Error: Undefined array key "PATH_INFO" in C:\xampp\htdocs\php2\vendor\framework\Request.php on line 107
+______
+[2024-01-13 14:17:55] Error: explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\xampp\htdocs\php2\vendor\framework\Request.php on line 108
+______
+[2024-01-13 14:17:55] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:17:55] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:18:34] Error: Undefined array key "PATH_INFO" in C:\xampp\htdocs\php2\public\Index.php on line 35
+______
+[2024-01-13 14:18:35] Error: Undefined array key "PATH_INFO" in C:\xampp\htdocs\php2\public\Index.php on line 35
+______
+[2024-01-13 14:18:35] Error: Undefined array key "PATH_INFO" in C:\xampp\htdocs\php2\public\Index.php on line 35
+______
+[2024-01-13 14:18:35] Error: Undefined array key "PATH_INFO" in C:\xampp\htdocs\php2\public\Index.php on line 35
+______
+[2024-01-13 14:18:36] Error: Undefined array key "PATH_INFO" in C:\xampp\htdocs\php2\public\Index.php on line 35
+______
+[2024-01-13 14:18:36] Error: Undefined array key "PATH_INFO" in C:\xampp\htdocs\php2\public\Index.php on line 35
+______
+[2024-01-13 14:18:36] Error: Undefined array key "PATH_INFO" in C:\xampp\htdocs\php2\public\Index.php on line 35
+______
+[2024-01-13 14:18:36] Error: Undefined array key "PATH_INFO" in C:\xampp\htdocs\php2\public\Index.php on line 35
+______
+[2024-01-13 14:19:27] Error: Undefined array key "PATH_INFO" in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 102
+______
+[2024-01-13 14:19:27] Error: Undefined array key "PATH_INFO" in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 102
+______
+[2024-01-13 14:19:27] Error: Undefined array key "PATH_INFO" in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 102
+______
+[2024-01-13 14:19:27] Error: Undefined array key "PATH_INFO" in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 102
+______
+[2024-01-13 14:19:27] Error: Undefined array key "PATH_INFO" in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 102
+______
+[2024-01-13 14:19:27] Error: Undefined array key "PATH_INFO" in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 102
+______
+[2024-01-13 14:21:18] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:21:18] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:23:11] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:23:11] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:23:46] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:23:46] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:23:47] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:23:47] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:23:51] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:23:51] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:23:51] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:23:51] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:23:51] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:23:51] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:23:52] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:23:52] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 199
+______
+[2024-01-13 14:35:05] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:05] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:18] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:18] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:18] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:18] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:19] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:19] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:19] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:19] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:20] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:20] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:21] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:21] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:21] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:21] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:21] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:21] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:26] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:26] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:26] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:26] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:26] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:26] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:26] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:26] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:28] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:28] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:28] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:28] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:35:46] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 201
+______
+[2024-01-13 14:35:46] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 201
+______
+[2024-01-13 14:35:47] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 201
+______
+[2024-01-13 14:35:47] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 201
+______
+[2024-01-13 14:35:47] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 201
+______
+[2024-01-13 14:35:47] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 201
+______
+[2024-01-13 14:35:47] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 201
+______
+[2024-01-13 14:35:47] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 201
+______
+[2024-01-13 14:35:47] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 201
+______
+[2024-01-13 14:35:47] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 201
+______
+[2024-01-13 14:35:58] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 201
+______
+[2024-01-13 14:35:58] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 201
+______
+[2024-01-13 14:36:11] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 201
+______
+[2024-01-13 14:36:11] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 201
+______
+[2024-01-13 14:37:39] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:37:39] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:37:39] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:37:39] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:37:39] Error: include_once(C:\xampp\htdocs\php2/resources/views/_404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
+______
+[2024-01-13 14:37:39] Error: include_once(): Failed opening 'C:\xampp\htdocs\php2/resources/views/_404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\php2\vendor\framework\Router.php on line 200
