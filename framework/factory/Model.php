@@ -164,4 +164,22 @@ class Model
 
         return $model->login($email, $passowrd);
     }
+
+    public static function sum($modelClassName, $field)
+    {
+
+        $fullClassName = 'App\models\\' . $modelClassName;
+        $model = new $fullClassName();
+
+        return $model->sum($field);
+    }
+
+    public static function sumWhere($modelClassName, $field, $conditions = [], $operator = '=')
+    {
+
+        $fullClassName = 'App\models\\' . $modelClassName;
+        $model = new $fullClassName();
+
+        return $model->sumWhere($field, $conditions, $operator);
+    }
 }

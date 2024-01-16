@@ -7,12 +7,14 @@ use Illuminate\framework\Response;
 use Illuminate\framework\Request;
 use Illuminate\framework\factory\Model;
 use Illuminate\framework\base\Validator;
+use Dompdf\Dompdf;
+use Dompdf\Options;
 
 class ProductController extends Controller
 {
     public function index()
     {
-        $products = Model::all('Product', 'DESC');
+        $products = Model::all('Products', 'DESC');
         $product_categorys = Model::all('ProductCategory');
 
         $categoryMap = [];
@@ -60,7 +62,7 @@ class ProductController extends Controller
             ) {
                 $_SESSION['create-product'] = 'Thêm sản phẩm thât bại - Trường tồn kho phải là số nguyên';
             } else {
-                $lastInsertId = Model::create('Product', $request->getData());
+                $lastInsertId = Model::create('Products', $request->getData());
 
                 if ($lastInsertId) {
                     $_SESSION['create-product'] = 'Thêm sản phẩm thành công';
@@ -75,7 +77,7 @@ class ProductController extends Controller
         }
 
         unset($_SESSION['create-product']);
-        
+
         $this->setLayout('admin');
 
         echo $this->view('pages/admin/product-new');
@@ -86,7 +88,7 @@ class ProductController extends Controller
         if ($request->isPost()) {
             $productId = $request->getParam();
 
-            $rowCount = Model::softDelete('Product', $productId);
+            $rowCount = Model::softDelete('Products', $productId);
 
             if ($rowCount > 0) {
 
@@ -125,7 +127,7 @@ class ProductController extends Controller
             } else {
                 $productId = $request->getParam();
 
-                $row = Model::update('Product', $productId, $request->getData());
+                $row = Model::update('Products', $productId, $request->getData());
 
                 if ($row) {
                     $_SESSION['edit-product'] = 'Sửa sản phẩm thành công';
@@ -136,5 +138,37 @@ class ProductController extends Controller
 
             $this->index();
         }
+    }
+
+    public function printPDF(Request $request)
+    {
+        $options = new Options();
+        $options->set('isHtml5ParserEnabled', true);
+        $options->set('isPhpEnabled', true);
+
+        // Đường dẫn đến thư mục chứa font arialuni.ttf
+        $fontDir = realpath(__DIR__ . '/../vendor/dompdf/dompdf/lib/fonts/');
+        $options->set('fontDir', $fontDir);
+        $options->set('defaultFont', 'arialuni');
+
+        $dompdf = new Dompdf($options);
+        $product = Model::find('Products', $request->getParam());
+        // Tạo HTML để chuyển đổi thành PDF
+        $html = '<h1>Bill</h1>';
+        $html .= '<h5>'. $product['created_at'].'</h5>';
+        $html .= '<hr>';
+        $html .= '<p style="background: #e6e6e674; padding: 5px;">Code: ' . $product['name'] . '</p>';
+        $html .= '<p style="background: #e6e6e674; padding: 5px;">Total: ' . number_format($product['price'] ?? 0, 0, ',', '.'). 'VND</p>';
+        $html .= '<p style="background: #e6e6e674; padding: 5px;">Quantity: ' . number_format($product['qty'] ?? 0, 0, ',', '.'). '</p>';
+
+        // Load HTML vào Dompdf
+        $dompdf->loadHtml($html);
+
+        // Cấu hình và render PDF (output vào file hoặc browser)
+        $dompdf->setPaper('A4', 'portrait');
+        $dompdf->render();
+
+        // Output PDF tới trình duyệt (mở trong tab mới)
+        $dompdf->stream('output.pdf', ['Attachment' => false]);
     }
 }

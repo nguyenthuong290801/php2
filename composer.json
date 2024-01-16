@@ -17,6 +17,7 @@
     ],
     "require": {
         "vlucas/phpdotenv": "^5.5",
-        "cocur/slugify": "^4.5"
+        "cocur/slugify": "^4.5",
+        "dompdf/dompdf": "^2.0"
     }
 }

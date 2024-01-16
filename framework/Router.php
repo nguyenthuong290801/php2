@@ -99,7 +99,7 @@ class Router
         $path = $this->request->getPath();
 
         $hasVar = true;
-
+        
         foreach ($this->path as $url) {
 
             if ($url == $path) {

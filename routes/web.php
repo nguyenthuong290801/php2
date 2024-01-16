@@ -19,3 +19,4 @@ Route::get('/admin/product/new', [ProductController::class, 'store']);
 Route::post('/admin/product/new', [ProductController::class, 'store']);
 Route::post('/admin/product/destroy/{param}', [ProductController::class, 'destroy']);
 Route::post('/admin/product/edit/{param}', [ProductController::class, 'edit']);
+Route::post('/admin/product/PDF/{param}', [ProductController::class, 'printPDF']);

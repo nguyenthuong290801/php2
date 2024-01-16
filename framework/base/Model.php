@@ -30,7 +30,7 @@ class Model implements ModelInterface
     public function toString()
     {
         $columnsString = implode(', ', $this->columns) ?? '*';
-        
+
         return $columnsString;
     }
 
@@ -43,7 +43,7 @@ class Model implements ModelInterface
         $query = "SELECT {$this->toString()} FROM {$this->table} WHERE deleted_at IS NULL 
               ORDER BY created_at $order_by";
         $stmt = $this->pdo->prepare($query);
-        
+
         $stmt->execute();
 
         return $stmt->fetchAll(\PDO::FETCH_ASSOC);
@@ -251,7 +251,7 @@ class Model implements ModelInterface
         $query = "UPDATE {$this->table} SET deleted_at = NOW() WHERE id = :id";
         $stmt = $this->pdo->prepare($query);
         $stmt->execute(['id' => $id]);
-        
+
         return $stmt->rowCount();
     }
 
@@ -270,6 +270,35 @@ class Model implements ModelInterface
         $query = "SELECT {$this->toString()} FROM {$this->table} WHERE email = :email AND password = :password";
         $stmt = $this->pdo->prepare($query);
         $stmt->execute(['email' => $email, 'password' => $password]);
+
+        return $stmt->fetch(\PDO::FETCH_ASSOC);
+    }
+
+    public function sum($field)
+    {
+        $query = "SELECT SUM($field) FROM {$this->table} WHERE deleted_at IS NULL";
+        $stmt = $this->pdo->prepare($query);
+        $stmt->execute();
+        return $stmt->fetch(\PDO::FETCH_ASSOC);
+    }
+
+    public function sumWhere($field, $conditions = [], $operator = '=')
+    {
+
+        $whereClause = '';
+        $params = [];
+
+        foreach ($conditions as $column => $value) {
+            $paramName = ':' . $column;
+            $whereClause .= "$column $operator $paramName AND ";
+            $params[$paramName] = $value;
+        }
+
+        $whereClause = rtrim($whereClause, ' AND ');
+
+        $query = "SELECT SUM($field) FROM {$this->table} WHERE $whereClause AND deleted_at IS NULL";
+        $stmt = $this->pdo->prepare($query);
+        $stmt->execute($params);
 
         return $stmt->fetch(\PDO::FETCH_ASSOC);
     }
